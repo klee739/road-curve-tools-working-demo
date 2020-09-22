@@ -1,0 +1,14 @@
+line,0
+curve,90,right,500
+line,500
+curve,90,left,500
+line,500
+curve,90,right,250
+line,50
+curve,90,left,250
+line,500
+curve,90,right,200
+line,50
+curve,90,left,200
+line,50
+curve,90,right,200

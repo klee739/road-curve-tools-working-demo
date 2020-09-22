@@ -1,0 +1,5 @@
+line,100
+curve,80, left, 500
+line, 20
+curve,120, right, 1800
+line, 1500
